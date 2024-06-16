@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me yfyili2005@gmail.com
+- 📫 How to reach me tutu.filip@student.uoradea.ro
 
 <!---
 YfyIli/YfyIli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
