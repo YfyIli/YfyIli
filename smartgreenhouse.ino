@@ -1,4 +1,11 @@
-
+/*
+Components:
+Arduino Nano
+Temperature and Humidity Sensor AM2302 DHT22
+Soil Humidity Sensor with LM393 Chip
+Fan L9110
+A 6v Pump
+*/
 
 // LIBRARIES
 
