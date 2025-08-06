@@ -1,3 +1,19 @@
+/*
+Components:
+Arduino Uno Wifi
+Temperature and Humidity Sensor AM2302 DHT22
+Servo Motor SG90 9G
+CO2, VOCs & AQ ENS160 AHT21
+Gas Sensor MQ 135
+Light Sensor GL5528
+Fan L9110
+Pressure & Altitude BMP180
+Display LCD1602
+Step Down Module
+*/
+
+
+
 // Necessary libraries
 
 #include <Wire.h>
