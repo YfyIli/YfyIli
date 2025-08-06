@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YfyIli
 - 👀 I’m interested in A.I.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ & Python
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me yfyili2005@gmail.com
 
